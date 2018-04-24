@@ -1,0 +1,2 @@
+[Tue Feb 13 2018 21:42:09 GMT+0200 (Финляндия (зима))] layer "© Все права защищены LAB Consulting lab-consult.com": Unsupported extension: com
+[Tue Feb 13 2018 21:42:08 GMT+0200 (Финляндия (зима))] layer "+38 (048) 754-23-56": Expected Either a default asset specification or a layer asset specification but "+" found.

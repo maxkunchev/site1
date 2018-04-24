@@ -1,0 +1,188 @@
+@media screen and (max-width: 992px) {
+	.header__bg-first {
+		margin-top: 30%;
+	}
+
+	.mission__right {
+		margin-top: 30px;
+	}
+
+	.footer__btn {
+		margin: 0 auto;
+		margin-top: 20px;
+	}
+
+
+	.about__title {
+		font-size: 31px;	
+	}
+
+	.about__menu-item a {
+		padding: 9px;
+	}
+
+	.consult__text {
+		width:100%;
+	}
+
+	.navig__question {
+		width: 100%;
+	}
+
+@media screen and (max-width: 762px) {
+	.logo {
+		width: 250px;	
+		height: 60px;
+	}
+	.header__bg-first-title {
+		font-size: 40px;
+	}
+
+	.header__bg-first-text {
+		font-size: 20px;
+	} 
+
+
+	.footer {
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.footer__author {
+		justify-content: center;
+	}
+
+	.about__title {
+		text-align: center;
+			
+	}
+
+	.about__link {
+    display: none;
+	}
+
+	.about__menu {
+		margin-top: 0;	
+		margin-bottom: 10px;
+		justify-content: space-around;
+	}
+
+	.photo__four-img {
+		margin-left: 25%;
+	}
+
+
+
+
+@media screen and (max-width: 576px) {
+
+	.logo {
+		width: 291px;	
+		height: 76px;
+	}
+
+	.header__bg-first-text {
+		width: 100%;
+	}
+
+	.btn {
+		width: 10px;
+		padding: 20px;
+
+	}
+
+	.conf__btn {
+		width: 35%;
+	}
+
+	.about__menu {
+		flex-direction: column;
+	}
+
+	.about__menu-item {
+		margin-top: 5px;
+		text-align: center;
+		
+	}
+
+	.consult__m {
+		flex-direction: column;
+	}
+
+	.consult__list {
+		margin-top: 20px;
+	}
+
+
+
+	.logo {
+		height: 80%;
+	}
+
+	.btn span {
+		display: none;
+
+	}
+
+	.photo__four-img {
+		text-align: center;
+		margin: 0 auto;
+		margin-top: 5px;	
+	}
+
+	.socials__text {
+		display: none;
+	}
+
+	.mission__left {
+		margin: 0 auto;
+	}
+
+	.mission__left-text {
+		width: 100%;
+		flex-direction: column;
+		text-align: center;
+
+	}
+
+	.about__menu-item a {
+    padding: 2px;
+	}
+
+	.mission__left-rubric:nth-child(1) {
+		width: 100%;
+	}
+
+	.mission__left-rubric:nth-child(2) {
+		width: 100%;
+		margin-top: 20px;
+		margin-left: 0;
+	}
+
+	.block__map {
+		width: 300px;
+		right: 2%;
+	}
+
+	.block__map-icon {
+		align-items: start;
+	}
+
+	.block__map-right {
+		display: none;
+	}
+
+
+
+}
+
+@media screen and (max-width: 430px) {
+	.about {
+		display: none
+	}
+
+	.navig__phone {
+		display: block;
+		margin-top: 20px;
+	}
+}
